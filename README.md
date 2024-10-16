@@ -1,0 +1,2 @@
+# Plant-Card
+Using props 
